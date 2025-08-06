@@ -1,6 +1,5 @@
 
 
-<<<<<<< HEAD
 yes am good how are you 
 
 
@@ -15,9 +14,3 @@ thanks dear dear team
 
 
 i did the current file 
-=======
-const (for print of ) = [Array,11dc1dc1dc1d,1,11,,1,1]
-kgkgkkrg
-
-not upto date 
->>>>>>> rough
