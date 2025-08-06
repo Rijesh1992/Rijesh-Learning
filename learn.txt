@@ -7,3 +7,5 @@ yes am good how are you
 playwright code is full automated and error is cleared 
 
 yes all cleared in the git 
+
+thanks for the main comments dear locator
